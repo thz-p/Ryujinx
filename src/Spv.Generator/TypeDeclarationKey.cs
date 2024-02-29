@@ -28,3 +28,9 @@ namespace Spv.Generator
         }
     }
 }
+
+// 这段代码实现了一个名为 `TypeDeclarationKey` 的只读结构体，其功能包括：
+
+// 1. 存储类型声明的指令。
+// 2. 生成类型声明的哈希码。
+// 3. 比较两个 `TypeDeclarationKey` 实例是否相等。
